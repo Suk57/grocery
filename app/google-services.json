@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620655485427",
+    "firebase_url": "https://onlicery-8cf15.firebaseio.com",
+    "project_id": "onlicery-8cf15",
+    "storage_bucket": "onlicery-8cf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620655485427:android:a014c52c48fb31d6417286",
+        "android_client_info": {
+          "package_name": "com.example.onlinegrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620655485427-47im8mhdcv3qj7pacoc160ead5kpifot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqB-oF-R14qwzCVigqGN5LiMWTwbP-xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620655485427-47im8mhdcv3qj7pacoc160ead5kpifot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
